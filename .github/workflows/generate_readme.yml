@@ -14,7 +14,7 @@ on:
 
 env:
   GITHUB_NAME: zhangqk8888
-  GITHUB_EMAIL: zhangqk8888@gmail.com
+  GITHUB_EMAIL:  
 
 jobs:
   sync:
